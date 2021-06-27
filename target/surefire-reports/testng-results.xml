@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-19T22:49:35 IST" name="Suite" finished-at="2021-05-19T22:49:36 IST" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2021-05-19T22:49:35 IST" name="Test" finished-at="2021-05-19T22:49:36 IST" duration-ms="36">
+      <class name="PracticePro.NewoneTest">
+        <test-method signature="nanban()[pri:0, instance:PracticePro.NewoneTest@424e1977]" started-at="2021-05-19T22:49:36 IST" name="nanban" finished-at="2021-05-19T22:49:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nanban -->
+      </class> <!-- PracticePro.NewoneTest -->
+      <class name="PracticePro.SeleniumTest">
+        <test-method signature="method1()[pri:0, instance:PracticePro.SeleniumTest@10d68fcd]" started-at="2021-05-19T22:49:36 IST" name="method1" finished-at="2021-05-19T22:49:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- PracticePro.SeleniumTest -->
+      <class name="PracticePro.RestTest">
+        <test-method signature="farewell()[pri:0, instance:PracticePro.RestTest@31f9b85e]" started-at="2021-05-19T22:49:35 IST" name="farewell" finished-at="2021-05-19T22:49:36 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- farewell -->
+        <test-method signature="welcome()[pri:0, instance:PracticePro.RestTest@31f9b85e]" started-at="2021-05-19T22:49:36 IST" name="welcome" finished-at="2021-05-19T22:49:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- welcome -->
+      </class> <!-- PracticePro.RestTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
