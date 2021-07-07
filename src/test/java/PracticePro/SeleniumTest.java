@@ -9,4 +9,8 @@ public class SeleniumTest {
 		System.out.println("hello world");
 	}
 
+	@Test
+	public void method2() {
+		System.out.println("hello world2");
+	}
 }

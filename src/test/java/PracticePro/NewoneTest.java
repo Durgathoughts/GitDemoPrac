@@ -8,5 +8,15 @@ public class NewoneTest {
 	public void nanban() {
 		System.out.println("Nanban");
 	}
+	
+	@Test
+	public void nanbans() {
+		System.out.println("Nanbans");
+	}
+	
+	@Test
+	public void nanbana() {
+		System.out.println("Nanbana?");
+	}
 
 }

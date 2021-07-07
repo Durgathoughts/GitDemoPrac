@@ -14,4 +14,9 @@ public class RestTest {
 		
 	}
 
+	@Test
+	public void welcomehome() {
+		System.out.println("Welcomehome");
+		
+	}
 }
